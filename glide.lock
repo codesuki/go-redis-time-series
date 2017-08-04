@@ -1,0 +1,11 @@
+hash: 3a1925207b400193633557407415c6da90542bb42415d9513a58648fbc7e8928
+updated: 2017-08-02T11:27:53.068618706+09:00
+imports: []
+testImports:
+- name: github.com/benbjohnson/clock
+  version: 7dc76406b6d3c05b5f71a86293cbcf3c4ea03b19
+- name: github.com/garyburd/redigo
+  version: 433969511232c397de61b1442f9fd49ec06ae9ba
+  subpackages:
+  - internal
+  - redis
